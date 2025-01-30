@@ -204,7 +204,42 @@ main {
 }
 .kaka{
     
-  position: absolute;
+  text-align: center;
+  margin-top: 20px;
   
 }
+.foot{
+    margin-top: 130px;
+    font-weight: bold;
+    font-size: 35px;
+    color: #181818;
+}
+.footp {
+    font-weight: 400;
+    font-size: 16px;
+    color: #474747;
+}
+.fimg {
+ gap: 20px;
+}
+.back{
+    background-color: rgb(255, 248, 243);
+}
+.f {
+    display: flex;
+    padding: 130px 270px;
+    gap: 100px;
+    
+}
+input[type="text"] input[type="email"]{
+    height: 64px;
+    border-radius: 5px;
+    color: white;
+    display: block;
+    margin-bottom: 20px;
+    width: 100%;
+    padding: 10px 20px;
+    border: none;
+}
+
 
